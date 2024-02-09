@@ -1191,3 +1191,662 @@
 2024-02-09 14:14:11,776 - INFO - root  - test_UserLogin001 - 90- Select_Month 
 2024-02-09 14:14:12,839 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
 2024-02-09 14:14:12,839 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:30:31,744 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:30:31,744 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:30:31,744 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:30:31,744 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:30:31,774 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:30:31,774 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:30:31,774 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:30:31,774 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:30:32,341 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:30:32,341 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:30:32,342 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:30:32,342 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:30:32,534 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:30:32,534 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:30:32,571 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:30:32,571 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:30:36,360 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:30:36,360 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:30:36,379 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:30:36,379 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:30:36,516 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:30:36,516 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:30:36,661 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:30:36,661 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:30:36,685 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:30:36,685 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:30:36,831 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:30:36,831 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:30:37,170 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:30:37,170 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:30:38,288 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:30:38,288 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:30:39,782 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:30:39,782 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:30:44,908 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:30:44,908 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:30:44,908 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:30:44,908 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:30:44,997 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:30:44,997 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:30:45,106 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:30:45,106 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:30:45,220 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:30:45,220 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:30:45,313 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:30:45,313 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:30:45,466 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:30:45,466 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:30:50,665 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:30:50,665 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:30:50,755 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:30:50,755 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:30:50,846 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:30:50,846 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:30:50,903 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:30:50,903 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:30:50,957 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:30:50,957 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:30:51,014 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:30:51,014 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:30:51,174 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:30:51,174 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:30:51,300 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:30:51,300 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:30:52,397 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:30:52,397 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:33:54,857 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:33:54,857 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:33:54,857 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:33:54,857 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:33:54,996 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:33:54,996 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:33:55,090 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:33:55,090 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:33:55,582 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:33:55,582 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:33:55,583 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:33:55,583 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:33:55,787 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:33:55,787 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:33:55,988 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:33:55,988 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:33:59,046 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:33:59,046 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:33:59,061 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:33:59,061 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:33:59,157 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:33:59,157 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:33:59,179 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:33:59,179 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:33:59,241 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:33:59,241 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:33:59,301 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:33:59,301 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:33:59,926 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:33:59,926 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:34:01,127 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:34:01,127 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:34:01,989 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:34:01,989 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:34:07,113 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:34:07,113 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:34:07,113 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:34:07,113 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:34:07,198 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:34:07,198 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:34:07,291 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:34:07,291 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:34:07,396 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:34:07,396 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:34:07,484 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:34:07,484 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:34:07,602 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:34:07,602 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:34:12,751 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:34:12,751 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:34:12,847 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:34:12,847 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:34:12,946 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:34:12,946 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:34:13,000 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:34:13,000 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:34:13,058 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:34:13,058 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:34:13,115 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:34:13,115 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:34:13,267 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:34:13,267 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:34:13,387 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:34:13,387 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:35:14,892 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:35:14,892 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:40:46,051 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:40:46,051 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:40:46,051 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:40:46,051 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:40:46,086 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:40:46,086 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:40:46,087 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:40:46,087 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:40:46,227 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:40:46,227 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:40:46,279 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:40:46,279 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:40:46,527 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:40:46,527 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:40:46,582 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:40:46,582 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:40:50,287 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:40:50,287 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:40:50,309 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:40:50,309 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:40:50,393 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:40:50,393 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:40:50,416 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:40:50,416 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:40:50,473 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:40:50,473 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:40:50,561 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:40:50,561 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:40:51,139 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:40:51,139 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:40:52,362 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:40:52,362 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:40:53,246 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:40:53,246 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:40:58,400 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:40:58,400 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:40:58,400 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:40:58,400 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:40:58,483 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:40:58,483 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:40:58,577 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:40:58,577 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:40:58,687 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:40:58,687 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:40:58,783 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:40:58,783 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:40:58,898 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:40:58,898 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:41:04,016 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:41:04,016 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:41:04,104 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:41:04,104 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:41:04,191 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:41:04,191 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:41:04,247 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:41:04,247 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:41:04,298 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:41:04,298 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:41:04,352 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:41:04,352 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:41:04,499 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:41:04,499 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:41:04,621 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:41:04,621 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:41:05,825 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:41:05,825 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:43:14,443 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:43:14,443 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:43:14,443 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:43:14,443 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:43:14,566 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:43:14,566 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:43:14,566 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:43:14,566 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:43:14,658 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:43:14,658 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:43:14,884 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:43:14,884 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:43:14,947 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:43:14,947 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:43:15,120 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:43:15,120 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:43:18,399 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:43:18,399 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:43:18,417 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:43:18,417 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:43:18,525 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:43:18,525 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:43:21,744 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:43:21,744 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:43:21,765 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:43:21,765 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:43:21,853 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:43:21,853 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:43:22,579 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:43:22,579 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:43:23,841 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:43:23,841 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:43:24,798 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:43:24,798 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:43:29,936 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:43:29,936 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:43:29,937 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:43:29,937 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:43:30,028 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:43:30,028 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:43:30,130 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:43:30,130 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:43:30,261 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:43:30,261 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:43:30,349 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:43:30,349 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:43:30,470 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:43:30,470 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:43:35,610 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:43:35,610 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:43:35,703 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:43:35,703 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:43:35,797 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:43:35,797 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:43:35,856 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:43:35,856 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:43:35,908 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:43:35,908 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:43:35,963 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:43:35,963 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:43:36,109 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:43:36,109 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:43:36,232 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:43:36,232 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:43:37,515 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:43:37,515 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:50:02,762 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:50:02,762 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:50:02,762 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:50:02,762 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:50:02,762 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:50:02,763 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:50:02,763 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:50:02,965 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:50:02,965 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:50:03,044 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:50:03,044 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:50:03,275 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:50:03,275 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:50:03,323 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:50:03,323 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:50:07,232 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:50:07,232 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:50:07,255 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:50:07,255 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:50:07,334 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:50:07,334 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:50:07,360 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:50:07,360 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:50:07,384 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:50:07,384 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:50:07,507 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:50:07,507 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:50:08,031 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:50:08,031 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:50:09,209 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:50:09,209 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:50:10,165 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:50:10,165 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:50:15,258 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:50:15,258 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:50:15,258 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:50:15,258 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:50:15,348 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:50:15,348 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:50:15,448 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:50:15,448 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:50:15,552 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:50:15,552 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:50:15,655 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:50:15,655 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:50:15,774 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:50:15,774 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:50:20,883 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:50:20,883 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:50:20,977 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:50:20,977 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:50:21,078 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:50:21,078 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:50:21,137 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:50:21,137 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:50:21,194 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:50:21,194 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:50:21,252 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:50:21,252 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:50:21,408 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:50:21,408 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:50:21,538 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:50:21,538 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:50:22,744 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:50:22,744 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:54:20,802 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:54:20,802 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:54:20,803 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:54:20,803 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:54:20,843 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:54:20,843 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:54:20,843 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:54:20,843 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:54:20,994 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:54:20,994 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:54:21,055 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:54:21,055 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:54:21,243 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:54:21,243 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:54:21,289 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:54:21,289 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:54:24,504 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:54:24,504 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:54:24,523 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:54:24,523 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:54:24,627 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:54:24,627 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:54:24,889 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:54:24,889 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:54:24,915 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:54:24,915 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:54:25,009 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:54:25,009 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:54:25,656 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:54:25,656 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:54:26,773 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:54:26,773 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:54:27,548 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:54:27,548 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:54:32,654 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:54:32,654 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:54:32,654 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:54:32,654 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:54:32,758 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:54:32,758 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:54:32,851 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:54:32,851 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:54:32,945 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:54:32,945 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:54:33,028 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:54:33,028 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:54:33,142 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:54:33,142 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:54:38,269 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:54:38,269 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:54:38,353 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:54:38,353 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:54:38,449 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:54:38,449 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:54:38,505 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:54:38,505 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:54:38,559 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:54:38,559 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:54:38,616 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:54:38,616 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:54:38,760 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:54:38,760 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:54:38,882 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:54:38,882 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:54:39,986 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:54:39,986 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:56:06,237 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:56:06,237 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 14:56:06,238 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:56:06,238 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 14:56:06,400 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:56:06,400 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:56:06,481 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:56:06,481 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 14:56:06,481 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:56:06,481 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 14:56:06,583 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:56:06,583 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 14:56:06,735 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:56:06,735 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 14:56:06,854 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:56:06,854 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 14:56:10,437 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:56:10,437 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 14:56:10,460 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:56:10,460 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 14:56:10,593 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:56:10,593 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 14:56:10,913 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:56:10,913 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 14:56:10,941 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:56:10,941 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 14:56:11,069 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:56:11,069 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 14:56:11,766 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:56:11,766 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 14:56:13,007 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:56:13,007 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 14:56:14,649 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:56:14,649 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 14:56:19,744 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:56:19,744 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 14:56:19,744 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:56:19,744 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 14:56:19,834 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:56:19,834 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 14:56:19,936 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:56:19,936 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 14:56:20,041 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:56:20,041 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 14:56:20,129 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:56:20,129 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 14:56:20,246 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:56:20,246 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 14:56:25,350 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:56:25,350 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 14:56:25,445 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:56:25,445 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 14:56:25,539 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:56:25,539 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 14:56:25,597 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:56:25,597 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 14:56:25,654 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:56:25,654 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 14:56:25,711 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:56:25,711 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 14:56:25,860 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:56:25,860 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 14:56:25,983 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:56:25,983 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 14:56:27,137 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 14:56:27,137 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 15:00:04,983 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 15:00:04,983 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 15:00:04,984 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 15:00:04,984 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 15:00:05,078 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 15:00:05,078 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 15:00:05,078 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 15:00:05,078 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 15:00:05,202 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:00:05,202 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:00:05,395 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 15:00:05,395 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 15:00:05,412 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:00:05,412 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:00:05,623 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 15:00:05,623 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 15:00:08,686 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 15:00:08,686 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 15:00:08,707 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 15:00:08,707 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 15:00:08,818 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 15:00:08,818 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 15:00:09,263 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 15:00:09,263 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 15:00:09,281 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 15:00:09,281 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 15:00:09,371 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 15:00:09,371 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 15:00:09,443 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 15:00:09,443 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 15:00:10,353 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 15:00:10,353 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 15:00:11,829 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 15:00:11,829 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 15:00:16,943 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 15:00:16,943 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 15:00:16,943 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 15:00:16,943 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 15:00:17,055 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 15:00:17,055 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 15:00:17,167 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 15:00:17,167 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 15:00:17,289 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 15:00:17,289 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 15:00:17,390 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 15:00:17,390 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 15:00:17,529 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 15:00:17,529 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 15:00:22,660 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 15:00:22,660 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 15:00:22,773 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 15:00:22,773 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 15:00:22,876 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 15:00:22,876 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 15:00:22,938 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 15:00:22,938 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 15:00:23,000 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 15:00:23,000 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 15:00:23,064 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 15:00:23,064 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 15:00:23,233 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 15:00:23,233 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 15:00:23,372 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 15:00:23,372 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 15:00:24,402 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 15:00:24,402 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 15:08:13,354 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 15:08:13,354 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 15:08:13,557 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 15:08:13,557 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 15:08:14,940 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 15:08:14,940 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 15:08:14,941 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 15:08:14,941 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 15:08:17,225 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:08:17,225 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:08:17,255 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:08:17,255 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:08:17,661 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 15:08:17,661 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 15:08:17,723 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 15:08:17,723 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 15:08:21,017 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 15:08:21,017 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 15:08:21,043 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 15:08:21,043 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 15:08:21,174 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 15:08:21,174 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 15:08:22,385 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 15:08:22,385 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 15:08:22,412 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 15:08:22,412 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 15:08:22,523 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 15:08:22,523 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 15:08:23,182 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 15:08:23,182 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 15:08:24,299 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 15:08:24,299 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 15:08:25,155 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 15:08:25,155 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 15:08:30,246 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 15:08:30,246 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 15:08:30,246 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 15:08:30,246 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 15:08:30,331 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 15:08:30,331 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 15:08:30,432 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 15:08:30,432 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 15:08:30,573 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 15:08:30,573 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 15:08:30,699 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 15:08:30,699 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 15:08:30,860 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 15:08:30,860 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 15:08:35,954 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 15:08:35,954 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 15:08:36,043 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 15:08:36,043 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 15:08:36,136 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 15:08:36,136 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 15:08:36,191 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 15:08:36,191 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 15:08:36,251 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 15:08:36,251 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 15:08:36,324 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 15:08:36,324 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 15:08:36,524 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 15:08:36,524 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 15:08:36,648 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 15:08:36,648 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 15:08:37,902 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 15:08:37,902 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 15:14:50,504 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 15:14:50,504 - INFO - root  - test_UserLogin001 - 30- Testcase test_UserLogin001 is started 
+2024-02-09 15:14:50,505 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 15:14:50,505 - INFO - root  - test_UserLogin001 - 31- Opening browser 
+2024-02-09 15:14:51,093 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 15:14:51,093 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 15:14:51,094 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 15:14:51,094 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 15:14:51,193 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:14:51,193 - INFO - root  - test_UserLogin001 - 36-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:14:51,283 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:14:51,283 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 15:14:51,435 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 15:14:51,435 - INFO - root  - test_UserLogin001 - 39-  Entering Password-->Credence@123 
+2024-02-09 15:14:51,520 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 15:14:51,520 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 15:14:54,571 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 15:14:54,571 - INFO - root  - test_UserLogin001 - 43- Click on login button 
+2024-02-09 15:14:54,602 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 15:14:54,602 - INFO - root  - test_UserLogin001 - 45- Testcase test_UserLogin001 is passed 
+2024-02-09 15:14:54,709 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 15:14:54,709 - INFO - root  - test_UserLogin001 - 52- Testcase test_UserLogin001 is completed 
+2024-02-09 15:14:55,219 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 15:14:55,219 - INFO - root  - test_UserLogin001 - 54- Click_Productname 
+2024-02-09 15:14:55,713 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 15:14:55,713 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 15:14:55,744 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 15:14:55,744 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 15:14:55,873 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 15:14:55,873 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 15:14:56,142 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 15:14:56,142 - INFO - root  - test_UserLogin001 - 56- Click_Addtocart 
+2024-02-09 15:14:56,905 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 15:14:56,905 - INFO - root  - test_UserLogin001 - 58- Click_ProceedtoCheckout 
+2024-02-09 15:15:02,001 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 15:15:02,001 - INFO - root  - test_UserLogin001 - 61-  Entering First_Name-->Credence 
+2024-02-09 15:15:02,002 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 15:15:02,002 - INFO - root  - test_UserLogin001 - 62-  Entering First_Name-->Credence 
+2024-02-09 15:15:02,093 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 15:15:02,093 - INFO - root  - test_UserLogin001 - 64-  Entering LastName-->Pune 
+2024-02-09 15:15:02,201 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 15:15:02,201 - INFO - root  - test_UserLogin001 - 66-  Entering PhoneNo-->9091929355 
+2024-02-09 15:15:02,308 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 15:15:02,308 - INFO - root  - test_UserLogin001 - 68-  Entering Address-->Dhankawdi,Pune 
+2024-02-09 15:15:02,395 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 15:15:02,395 - INFO - root  - test_UserLogin001 - 70-  Entering Zip-->411013 
+2024-02-09 15:15:02,517 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 15:15:02,517 - INFO - root  - test_UserLogin001 - 72- Entering State-->Pune 
+2024-02-09 15:15:07,678 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 15:15:07,678 - INFO - root  - test_UserLogin001 - 75- Entering Ownername-->Tushar 
+2024-02-09 15:15:07,772 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 15:15:07,772 - INFO - root  - test_UserLogin001 - 77- Entering CVV-->043 
+2024-02-09 15:15:07,861 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 15:15:07,861 - INFO - root  - test_UserLogin001 - 79- Entering card_number01-->5281 
+2024-02-09 15:15:07,918 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 15:15:07,918 - INFO - root  - test_UserLogin001 - 81- Entering card_number02-->0370 
+2024-02-09 15:15:07,972 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 15:15:07,972 - INFO - root  - test_UserLogin001 - 83- Entering card_number03-->4891 
+2024-02-09 15:15:08,027 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 15:15:08,027 - INFO - root  - test_UserLogin001 - 86- Entering card_number04-->6168 
+2024-02-09 15:15:08,183 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 15:15:08,183 - INFO - root  - test_UserLogin001 - 88- Select_Year 
+2024-02-09 15:15:08,304 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 15:15:08,304 - INFO - root  - test_UserLogin001 - 90- Select_Month 
+2024-02-09 15:15:09,191 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
+2024-02-09 15:15:09,191 - INFO - root  - test_UserLogin001 - 92- Click_Checkout_button 
